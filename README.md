@@ -11,3 +11,5 @@ Required Libraries:
   6. **csv**: https://docs.python.org/3/library/csv.html
 
 There's also a csv file that the songs are saved there and then you should put the directory: path = os.getcwd() + '/Musics.csv'
+
+About 250 lines Python code
